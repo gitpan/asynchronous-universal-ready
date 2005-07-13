@@ -1,0 +1,6 @@
+Revision history for Perl extension asynchronous::universal::ready.
+
+0.01  Wed Jul 13 00:11:14 2005
+	- original version; created by h2xs 1.23 with options
+		-X -b 5.6.1 -n asynchronous::universal::ready -A
+
